@@ -1,0 +1,23 @@
+{
+  "name": "containerizeddemo",
+  "version": "1.0.0",
+  "description": "Demo for containerization",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmolNagare7003/containerizeddemo.git"
+  },
+  "author": "Amol Nagare",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AmolNagare7003/containerizeddemo/issues"
+  },
+  "homepage": "https://github.com/AmolNagare7003/containerizeddemo#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
